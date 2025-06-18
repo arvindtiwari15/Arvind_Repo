@@ -1188,5 +1188,6 @@ docker exec -i movie-booking-db psql -U postgres -d postgres -c "SELECT * FROM s
 
 
 ER diagram 
+
 ![image](https://github.com/user-attachments/assets/afa005af-3ed0-4038-b59a-6ef3b9656a11)
 
