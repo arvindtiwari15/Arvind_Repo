@@ -1193,5 +1193,5 @@ ER diagram **
 
 **System Design **
 
-![image](https://github.com/user-attachments/assets/84682d41-c592-4a15-8d83-b3e2e2f707d6)
+
 ![image](https://github.com/user-attachments/assets/84682d41-c592-4a15-8d83-b3e2e2f707d6)
