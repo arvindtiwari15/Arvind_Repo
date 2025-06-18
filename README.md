@@ -1185,3 +1185,8 @@ docker exec -i movie-booking-db psql -U postgres -d postgres -c "SELECT * FROM s
 ### High-Level Project Plan
 - **Timelines:** The project is divided into phases, with initial development focusing on core features, followed by testing, deployment, and ongoing maintenance.
 - **Effort Estimates:** Effort estimates are based on the complexity of each feature and the resources required for development, testing, and deployment.
+
+
+ER
+![image](https://github.com/user-attachments/assets/afa005af-3ed0-4038-b59a-6ef3b9656a11)
+![image](https://github.com/user-attachments/assets/afa005af-3ed0-4038-b59a-6ef3b9656a11)
